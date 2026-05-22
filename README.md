@@ -4,7 +4,7 @@ A single-page habit tracker with weekly streaks. Add daily habits, tick them off
 
 ## How to run
 
-**Option 1 — just open the file (no server needed)**
+**Option 1: just open the file (no server needed)**
 
 ```bash
 open index.html      # macOS
@@ -14,7 +14,7 @@ xdg-open index.html  # Linux
 
 The app is a single self-contained HTML file with no build step, no dependencies, and no server required.
 
-**Option 2 — serve locally (avoids any browser file:// quirks)**
+**Option 2: serve locally (avoids any browser file:// quirks)**
 
 ```bash
 # Python 3
