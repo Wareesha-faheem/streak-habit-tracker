@@ -26,7 +26,7 @@ npx serve .
 # Then open http://localhost:3000
 ```
 
-**Requirements:** A modern browser (Chrome, Firefox, Safari, Edge — anything from 2022+). No Node, no npm, no build tools.
+**Requirements:** A modern browser (Chrome, Firefox, Safari, Edge). No Node, no npm, no build tools.
 
 ## Stack
 
@@ -52,7 +52,7 @@ Vanilla HTML + CSS + JavaScript. Single file, zero dependencies, zero build step
 
 ```
 habit-tracker/
-├── index.html    # entire app — HTML, CSS, JS all inline
+├── index.html  
 ├── README.md
 └── ANSWERS.md
 ```
